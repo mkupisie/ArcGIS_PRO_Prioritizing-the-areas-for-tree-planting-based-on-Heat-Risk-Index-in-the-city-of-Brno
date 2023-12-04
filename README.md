@@ -13,4 +13,8 @@ The study area covers the city of Brno in the Czech Republic with a total area o
 All data used in this study were retrieved from ArcGIS Living Atlas provided by Esri, which holds a collection of ready-to-use global geographic content, such as imagery, basemaps, boundaries, demographics, earth observations, urban systems and historical maps. Boundaries of the city with a total population count were extracted from ‘’Czech Republic Postcodes5 Boundaries’’ layer. Land surface temperature was derived from the ‘’Multispectral Landsat’’ imagery layer by extracting one of the two multispectral bands from Thermal Infrared Sensor (TIRS) held by Landsat 8 and Landsat 9 imagery. Tree canopy coverage was calculated using ‘’The European Space Agency WorldCover 2020 Land Cover’’ layer. This map contains 11 different land cover classes at 10 m resolution including ‘’Tree Cover’’ class, which contains any geographic area dominated by trees with a cover of 10% or more: areas planted with trees for afforestation purposed and plantations as well as  tree covered areas seasonally or permanently flooded with fresh water except for mangrove.
 
 ![Layout](https://github.com/mkupisie/ArcGIS_PRO_Prioritizing-the-areas-for-tree-planting-based-on-Heat-Risk-Index-in-the-city-of-Brno/assets/130785524/e74913ba-fc5c-4334-a12a-2921c26da570)
+<p align="center">
+<b>Heat Risk Index (HRI)</b> per each postcode area in the city of Brno 
+</p> 
+
 
