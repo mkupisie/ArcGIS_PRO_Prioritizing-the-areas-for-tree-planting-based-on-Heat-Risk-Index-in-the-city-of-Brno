@@ -1,0 +1,1 @@
+# ArcGIS_PRO_Prioritizing-the-areas-for-tree-planting-based-on-Heat-Risk-Index-in-the-city-of-Brno
